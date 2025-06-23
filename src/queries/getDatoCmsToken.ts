@@ -1,5 +1,3 @@
-// getDatoCmsToken.ts
-
 export const getDatoCmsToken = (): string => {
   const hostname = window.location.hostname;
 
@@ -16,6 +14,7 @@ export const getDatoCmsToken = (): string => {
 
     case 'frontend.sumanthsamala.com':
     case 'frontend.localhost':
+    case 'portfolio-livid-seven-81.vercel.app':  // ✅ Add this line
       return process.env.REACT_APP_DATOCMS_FRONTEND_TOKEN ?? '';
 
     case 'node.sumanthsamala.com':

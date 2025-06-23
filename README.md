@@ -6,9 +6,8 @@ Welcome to my personal portfolio! Built with a Netflix-style interface, this pro
 
 ## 🚀 Live Demo
 
-👉 [Visit Live Portfolio](https://your-vercel-link.vercel.app)
+👉 [Visit Live Portfolio](https://portfolio-livid-seven-81.vercel.app/)
 
-(Replace with your actual deployed URL)
 
 ---
 
